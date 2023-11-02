@@ -15,8 +15,7 @@
 * Powerpoint master
 
 ## 📫 How to reach me: 
-* Contact me using public email: [ yisuanwang@qq.com](mailto: yisuanwang@qq.com)
-* Contact me using public email: [ yisuanwang@gmail.com](mailto: yisuanwang@gmail.com)
+* Contact me using public email: yisuanwang@hrbeu.edu.cn
 * Other contact information can be obtained by mail.
 
 ## 📟 Go check [My Page](http://cjh.asia) as well!
