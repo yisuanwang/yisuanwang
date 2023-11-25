@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m @yisuanwang
-  
-哈尔滨工程大学的软工选手ChhhCooh°  
-❗即将前往清华大学SIGS
+
+I went to these schools:
+Tsinghua University, Shenzhen International Graduate School (SIGS), M.S. in Data Science
+Harbin Engineering University, College of Software, B.S. in Software Engineering
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=yisuanwang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
@@ -10,8 +11,8 @@
 
 ## 🔭 I’m currently working on 
 * Android and iOS developing
-* Large Language Models and Avatar(3D Vison)
-* Be able to uninstall and install Java, Kotlin, Python, C++ and PHP
+* Large Language Models , AI Agents and Avatar (3D Vison)
+* Be able to uninstall and install Java, Kotlin, Python, C++, Swift, PHP
 * Powerpoint master
 
 ## 📫 How to reach me: 
