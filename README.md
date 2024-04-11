@@ -8,6 +8,6 @@
 I had an internship at the **Institute of Automation, Chinese Academy of Sciences**, supervised by Prof. **[Yubo Chen](https://scholar.google.com/citations?hl=en&user=9z7GPxIAAAAJ)**.
 In addition, I had a good time with Prof. **[Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** at **Institute for AI Industry Research (AIR), Tsinghua University**.
 
-😥 I'll be **[emo](https://yisuanwang.github.io/emo)** on a regular basis, which looks to be caused by not being able to write a paper.
+😥 I'll be **[emo](https://yisuanwang.github.io/emo)** on a regular basis, which looks to be caused by not being able to finish a paper.
 
 🎉 There is some more interesting information on [my homepage](https://yisuanwang.github.io/) :)
