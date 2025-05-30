@@ -1,5 +1,6 @@
-👋 I am currently pursuing a MPhil degree in data science at Tsinghua University, with a research focus on 3D AIGC.
+### Hi there, I'm [Junhao Chen](https://yisuanwang.github.io/) 👋
 
-🤔 My research interests include LLM as Agent, 2D/3D AIGC, and Avatar, especially in areas that have a strong connection to humans. And would like to realize AGI for the benefit of humanity through generative AI.
+<a href="https://github.com/yisuanwang"><img src="https://komarev.com/ghpvc/?username=yisuanwang" alt="cleardusk" /></a>
+<a href="mailto:yisuanwang@gmail.com"><img src="https://img.shields.io/badge/Email-yisuanwag@gmail.com-pink" alt="Email" /></a>
 
 😥 I'll be [emo](https://yisuanwang.github.io/emo) on a regular basis, which looks to be caused by not being able to write a paper.
